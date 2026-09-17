@@ -297,3 +297,15 @@ footer {
     color: white !important;
     background: #111827 !important;
 }
+
+/* Footer Fix */
+footer {
+    background: #111827 !important;
+    color: white !important;
+    text-align: center;
+    padding: 20px !important;
+    width: 100%;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    margin: 0 !important;
+}
